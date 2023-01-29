@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        app:cnb_iconColor="@color/teal_200"/>
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@drawable/ic_bookmark"
+        android:title="@string/bookmark"
+        app:cnb_iconColor="#DC3030"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/profile"
+        app:cnb_iconColor="#1D57CC" />
+</menu>

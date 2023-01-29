@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rakamin News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+    <string name="popular_news">Popular News</string>
+    <string name="news">News</string>
+
+    <!-- Profile -->
+    <string name="name">Name</string>
+    <string name="nama_pp">Farhan Ryan Rafli</string>
+    <string name="username">Github Username</string>
+    <string name="user">farhanrr21</string>
+    <string name="bio">Bio</string>
+    <string name="bio_pp">Enthusiastic computer engineering student, self-motivated with high creativity skills, and someone who likes problem solving. Experienced in several organizations that can create good cooperation between teams. Have an interest as a developer, especially in the field of mobile app development, software engineering, and UI UX.</string>
+
+    <!-- Splash -->
+    <string name="author">Created by Farhan Ryan Rafli</string>
+</resources>
